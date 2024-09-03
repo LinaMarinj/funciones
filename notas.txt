@@ -8,7 +8,8 @@ Existen 3 tipos de funciones:
 
 1. Función regular o tradicional:
    -Funciones de expresión 
-   -Funciones declarativas
+   -Funciones declarativas -> Que la funcion queda guardada dentro de 
+   todo el código y es accesible desde cualquier parte (se puede llamar antes de definirse)
 
 
 2. Función flecha: 
