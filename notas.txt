@@ -1,0 +1,25 @@
+Funciones -> bloque de código que permite utilizar una estructura donde se necesita (solamente con una definición)
+
+- Una función busca la simplificación de código
+-La reutilización 
+-Mantenimiento 
+
+Existen 3 tipos de funciones:
+
+1. Función regular o tradicional:
+   -Funciones de expresión 
+   -Funciones declarativas
+
+
+2. Función flecha: 
+
+  -Funciones de expresión 
+
+  
+3. Función anónima 
+
+
+1. Se define una función: darle un nombre(camelCase) y agregarle el contenido de un código a ejecutar
+
+2. Se llama o se invoca la función 
+
