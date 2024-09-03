@@ -27,7 +27,7 @@ Es una variable con cualquier nombre y tipo de variable SINTAXIS: let funcionFle
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////
-3. Función anónima 
+3. Función anónima (la veremos cuando veamos Arreglos y objetos)
 
 
 
